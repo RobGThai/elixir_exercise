@@ -16,6 +16,7 @@ Counter exercise for learning Elixir.
 Extras:
 
 - OTP http://blog.oozou.com/an-intro-to-otp-in-elixir/
+- Phoenix Framework http://www.phoenixframework.org/
 - FSM https://github.com/sasa1977/fsm
 
 ---
