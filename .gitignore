@@ -1,5 +1,23 @@
+
+# Created by https://www.gitignore.io/api/elixir,erlang
+
+### Elixir ###
 /_build
 /cover
 /deps
+/doc
 erl_crash.dump
 *.ez
+
+
+### Erlang ###
+.eunit
+deps
+*.o
+*.beam
+*.plt
+erl_crash.dump
+ebin
+rel/example_project
+.concrete/DEV_MODE
+.rebar
